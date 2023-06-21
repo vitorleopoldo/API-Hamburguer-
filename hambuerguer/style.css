@@ -200,6 +200,13 @@ html {
     text-decoration: underline;
 }
 
+.itens-cardapio .info h4 span{
+    font-size: 1.6rem;
+    color:#585858;
+    margin-left: 1.5rem;
+    text-decoration: underline;
+}
+
 
 .itens-cardapio .info h4 {
     font-size: 1.4rem;
